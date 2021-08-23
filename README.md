@@ -6,3 +6,4 @@ some useful links:
 - https://package.elm-lang.org/packages/rundis/elm-bootstrap/latest/Bootstrap-Accordion
 - http://elm-bootstrap.info/getting-started
 - http://elm-bootstrap.info/accordion
+- hint: type . in Github repo and github.dev visual studio code will be open
